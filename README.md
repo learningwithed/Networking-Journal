@@ -9,7 +9,7 @@ This is my personal networking log — a mix of study notes, concepts I’ve lea
 
 The goal is to build deep understanding, not just surface knowledge. 💻🌐
 
-##Resources i recommend (and used)
+## Resources i recommend (and used)
 Crash course computer Science 
 How the internet really works
 
